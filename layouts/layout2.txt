@@ -1,0 +1,7 @@
+[hk0]>[esc]
+[caps]>[esc]
+[lctrl]>[lwin]
+fn {hk1}>{x1}{vol-}
+fn {hk2}>{x1}{vol+}
+{hk7}>{x1}{-lctrl}{-lshft}{c}{+lshft}{+lctrl}
+{hk8}>{x1}{-lshft}{-lctrl}{v}{+lshft}{+lctrl}
